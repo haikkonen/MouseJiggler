@@ -2,7 +2,7 @@
 
 // MouseJiggle - Program.cs
 // 
-// Alistair J. R. Young
+// Mau Delgado
 // Arkane Systems
 // 
 // Copyright Arkane Systems 2012-2013.
